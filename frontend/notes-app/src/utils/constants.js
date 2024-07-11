@@ -1,0 +1,1 @@
+export const BASE_URL = "https://notes2-1.onrender.com/";

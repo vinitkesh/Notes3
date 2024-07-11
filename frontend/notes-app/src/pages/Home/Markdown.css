@@ -1,0 +1,176 @@
+.markdown-css h1{
+    font-size: 2em;
+}
+.markdown-css h2{
+    font-size: 1.5em;
+}
+
+.markdown-css h3{
+    font-size: 1.17em;
+}
+
+.markdown-css h4{
+    font-size: 1em;
+}
+
+.markdown-css h5{
+    font-size: 0.83em;
+}
+
+.markdown-css h6{
+    font-size: 0.67em;
+}
+
+.markdown-css p{
+    font-size: 1em;
+}
+
+.markdown-css a{
+    color: #007bff;
+}
+
+.markdown-css blockquote{
+    background-color: #f8f9fa;
+    border-left: 0.25em solid #007bff;
+    padding: 0.5em;
+    margin: 0;
+}
+
+.markdown-css pre{
+    background-color: #f8f9fa;
+    padding: 0.5em;
+    margin: 0;
+}
+
+.markdown-css code{
+    background-color: #f8f9fa;
+    padding: 0.1em;
+    margin: 0;
+}
+
+.markdown-css ul{
+    list-style-type: disc;
+}
+
+.markdown-css ol{
+    list-style-type: decimal;
+}
+
+.markdown-css li{
+    font-size: 1em;
+}
+
+.markdown-css table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.markdown-css th, td{
+    border: 1px solid #dee2e6;
+    padding: 0.5em;
+}
+
+.markdown-css th{
+    background-color: #f8f9fa;
+}
+
+.markdown-css img{
+    max-width: 100%;
+    height: auto;
+}
+
+.markdown-css hr{
+    border: 0;
+    border-top: 1px solid #dee2e6;
+}
+
+.markdown-css .center{
+    text-align: center;
+}
+
+.markdown-css .right{
+    text-align: right;
+}
+
+.markdown-css .left{
+    text-align: left;
+}
+
+.markdown-css .justify{
+    text-align: justify;
+}
+
+.markdown-css .bold{
+    font-weight: bold;
+}
+
+.markdown-css .italic{
+    font-style: italic;
+}
+
+.markdown-css .underline{
+    text-decoration: underline;
+}
+
+.markdown-css .line-through{
+    text-decoration: line-through;
+}
+
+.markdown-css .highlight{
+    background-color: #ff0;
+}
+
+.markdown-css .small{
+    font-size: 0.8em;
+}
+
+.markdown-css .large{
+    font-size: 1.2em;
+}
+
+.markdown-css .x-large{
+    font-size: 1.5em;
+}
+
+.markdown-css .xx-large{
+    font-size: 2em;
+}
+
+.markdown-css .super{
+    font-size: 1.5em;
+    vertical-align: super;
+}
+
+.markdown-css .sub{
+    font-size: 0.8em;
+    vertical-align: sub;
+}
+
+.markdown-css .text-left{
+    text-align: left;
+}
+
+.markdown-css .text-right{
+    text-align: right;
+}
+
+.markdown-css .text-center{
+    text-align: center;
+}
+
+.markdown-css .text-justify{
+    text-align: justify;
+}
+
+.markdown-css .text-bold{
+    font-weight: bold;
+}
+
+.markdown-css .text-italic{
+    font-style: italic;
+}
+
+.markdown-css .text-underline{
+    text-decoration: underline;
+}
+

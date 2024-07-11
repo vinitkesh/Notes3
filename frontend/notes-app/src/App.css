@@ -1,0 +1,22 @@
+/* Define the gradient background and animation */
+body {
+  /* Base background color */
+  /* background: linear-gradient(270deg, #5bb2ff, #ffcd5a, #5bb2ff); */
+  /* background-size: 600% 600%; */
+
+  /* Apply the animation */
+  /* animation: gradientShift 15s ease infinite; */
+}
+
+/* Define the keyframes for the gradient animation */
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
