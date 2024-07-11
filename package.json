@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vinitkesh/Notes3/issues"
   },
-  "homepage": "https://github.com/vinitkesh/Notes3#readme"
+  "homepage": "https://github.com/vinitkesh/Notes3#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
