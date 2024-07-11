@@ -43,7 +43,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: production-files
-          path: ./dist
+          path: ./frontend/notes-app/dist
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
