@@ -27,4 +27,6 @@ The App is written in MERN stacks using MongoDB Atlas as serverless database URI
 - ![mongodb](https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&logoColor=white) : Database of choice
 - ![mongoose](https://img.shields.io/badge/-mongoose-880000?logo=mongoose&logoColor=white) : Object data modeling library for MongoDB
 
+---
 
+**Made with ❤️ by Vinit**
